@@ -2,6 +2,7 @@
 ### personal tmux config
 ```bash
 sudo apt install tmux
+git clone https://github.com/jes-ale/jes.tmux.config.git ~/.config/tmux
 ```
 setup tpm
 ```bash
